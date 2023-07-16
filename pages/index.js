@@ -4,6 +4,9 @@ import Navbar from '../components/navbar'
 import TwitterIcon from '../components/twittericon'
 import LinkedInIcon from '@/components/linkedinicon'
 import MailIcon from '@/components/mailicon'
+import SpotifyIcon from '@/components/spotify'
+import GithubIcon from '@/components/githubicon'
+import InstaIcon from '@/components/instaicon'
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -19,7 +22,7 @@ export default function Home() {
         <div className = "font-mono align-right">
           <div><Image src="/headshot.png" alt="headshot"  width={200} height={400}/> </div>
             <div className="text-right text-sm">📍VAN → SAN → SF & LA </div>
-            <div className="flex flexrow justify-end"><div className="pr-4"><TwitterIcon/></div><LinkedInIcon/><MailIcon/></div>
+            <div className="flex flexrow justify-end space-x-4"><GithubIcon/><InstaIcon/><TwitterIcon/><LinkedInIcon/><SpotifyIcon/><MailIcon/></div>
         </div>
         <div>
           
