@@ -14,30 +14,30 @@ export default function Home() {
   return (
    <>
   <Navbar />
-    <main
-      className={`flex flex-col items-center justify-between p-24 `}
-    >
-      
-      <div className="flex flex-row gap-4 font-mono leading-7">
-        <div className = "font-mono align-right">
-          <div><Image src="/headshot.png" alt="headshot"  width={200} height={400}/> </div>
-            <div className="text-right text-sm">📍VAN → SAN → SF & LA </div>
-            <div className="flex flexrow justify-end space-x-4"><GithubIcon/><InstaIcon/><TwitterIcon/><LinkedInIcon/><SpotifyIcon/><MailIcon/></div>
+    {/* <main
+      className={`flex flex-col items-center justify-between p-24 🌇🌃`}
+    > */}
+      <div className="flex items-center justify-between flex-col p-24">
+        <div className="flex flex-row gap-6 justify-center mt-12">
+          <div className = "align-right leading-4">
+            <div><Image src="/headshot.png" alt="headshot"  width={200} height={200}/> </div>
+              <div className="text-right text-sm"><br/>📍VAN🇨🇦 → SD🌞 → SF & LA🌁 </div>
+              <div><br/></div>
+              <div className="flex flexrow justify-end space-x-4"><GithubIcon/><InstaIcon/><TwitterIcon/><LinkedInIcon/><SpotifyIcon/><MailIcon/></div>
+          </div>
+          <div className="w-1/2 leading-4">
+            
+            <h1 className="text-3xl text-[#737df0] font-bold">Hi I'm Sarah RJ Zhang: <br /> Freedom, & people lover!</h1>
+            
+            <div className="text-sm"><br/>UCLA freshman curious about microeconomics, investment theory, webdev, and DeFi!</div>
+            <div className="text-sm"><br/>Life started getting interesting after I snuck into Treehacks—met extremely cool people, read books, and had fascinating life experiences. </div>
+            <div className="text-sm"><br/>Figuring out how to live life like an adventure! So much to learn in the world—excited for surprises life can bring!</div>
+            <div className="text-sm"><br/>Currently reading: The Man Who Solved The Market</div>
+            <div className="text-sm"><br/><br/>Constantly seeking new adventures and interesting conversations—reach out to me!</div>
+            
+          </div>
+          
         </div>
-        <div>
-          
-          <h1 className="text-3xl text-[#737df0] font-bold">Hi I'm Sarah RJ Zhang: <br /> People & freedom lover.</h1>
-          
-          <div className="text-sm"><br/>UCLA freshman curious about microeconomics, investment theory, webdev, and DeFi!</div>
-          <div className="text-sm">Snuck into Treehacks where it began, and started doing cool stuff with my life! </div>
-          <div className="text-sm">Trying to live life like an adventure!I have thoughts about the world.</div>
-          
-          <div className="text-sm">Currently reading: The Big Short</div>
-          <div className="text-sm">Constantly seeking new adventures and interesting conversations—reach out to me!</div>
-          
-        </div>
-        
-      </div>
       {/* <div className="z-10 w-full max-w-5xl items-center justify-between font-mono text-sm lg:flex">
         <p className="fixed left-0 top-0 flex w-full justify-center border-b border-gray-300 bg-gradient-to-b from-zinc-200 pb-6 pt-8 backdrop-blur-2xl dark:border-neutral-800 dark:bg-zinc-800/30 dark:from-inherit lg:static lg:w-auto lg:rounded-xl lg:border lg:bg-gray-200 lg:p-4 lg:dark:bg-zinc-800/30">
           Ghello lolg&nbsp;
@@ -143,7 +143,8 @@ export default function Home() {
           </p>
         </a>
       </div> */}
-    </main>
+    {/* </main> */}
+    </div>
     </>
   )
 }
