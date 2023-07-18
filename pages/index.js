@@ -1,12 +1,13 @@
 import Image from 'next/image'
 import { Inter } from 'next/font/google'
 import Navbar from '../components/navbar'
-import TwitterIcon from '../components/twittericon'
-import LinkedInIcon from '@/components/linkedinicon'
-import MailIcon from '@/components/mailicon'
-import SpotifyIcon from '@/components/spotify'
-import GithubIcon from '@/components/githubicon'
-import InstaIcon from '@/components/instaicon'
+import TwitterIcon from '../components/icons/twittericon'
+import LinkedInIcon from '@/components/icons/linkedinicon'
+import MailIcon from '@/components/icons/mailicon'
+import SpotifyIcon from '@/components/icons/spotify'
+import GithubIcon from '@/components/icons/githubicon'
+import InstaIcon from '@/components/icons/instaicon'
+import Link from 'next/link';
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -15,26 +16,28 @@ export default function Home() {
    <>
   <Navbar />
     {/* <main
-      className={`flex flex-col items-center justify-between p-24 🌇🌃`}
+      className={`flex flex-col items-center justify-between p-24 🌇🌃🌞📍`}
     > */}
-      <div className="flex items-center justify-between flex-col p-24">
+      <div className="flex items-center justify-between flex-col p-5">
         <div className="flex flex-row gap-6 justify-center mt-12">
           <div className = "align-right leading-4">
             <div><Image src="/headshot.png" alt="headshot"  width={200} height={200}/> </div>
-              <div className="text-right text-sm"><br/>📍VAN🇨🇦 → SD🌞 → SF & LA🌁 </div>
+              <div className="text-right text-sm pt-2">VAN🇨🇦 → SD → SF & LA🌁 </div>
               <div><br/></div>
               <div className="flex flexrow justify-end space-x-4"><GithubIcon/><InstaIcon/><TwitterIcon/><LinkedInIcon/><SpotifyIcon/><MailIcon/></div>
+              
           </div>
-          <div className="w-1/2 leading-4">
+          <div className="w-1/2 ">
             
-            <h1 className="text-3xl text-[#737df0] font-bold">Hi I'm Sarah RJ Zhang: <br /> Freedom, & people lover!</h1>
+              <h1 className="text-3xl text-[#737df0] font-bold">Hi I'm Sarah RJ Zhang: <br /> Freedom, & people lover!</h1>
+              
+              <div className="text-sm"><br/>UCLA freshman curious about microeconomics, investment theory, and DeFi!</div>
+              <div className="text-sm pt-3">Life got interesting after I snuck into <a href="https://twitter.com/sracha_z/status/1627588736870682625" class="text-[#737df0] font-bold">Treehacks</a>—met extremely cool people, read books, and had fascinating life experiences that changed my <Link href="/thoughts" class="text-[#737df0] font-bold">life philosophies. </Link></div>
+              <div className="text-sm pt-3">Figuring out how to live life like an adventure! So much to learn in the world—excited for surprises life can bring!</div>
+              <div className="text-sm pt-3">Currently reading: The Man Who Solved The Market</div>
+              <div className="text-sm pt-8"><br/>Constantly seeking new adventures and interesting conversations—reach out to me!</div>
             
-            <div className="text-sm"><br/>UCLA freshman curious about microeconomics, investment theory, webdev, and DeFi!</div>
-            <div className="text-sm"><br/>Life started getting interesting after I snuck into Treehacks—met extremely cool people, read books, and had fascinating life experiences. </div>
-            <div className="text-sm"><br/>Figuring out how to live life like an adventure! So much to learn in the world—excited for surprises life can bring!</div>
-            <div className="text-sm"><br/>Currently reading: The Man Who Solved The Market</div>
-            <div className="text-sm"><br/><br/>Constantly seeking new adventures and interesting conversations—reach out to me!</div>
-            
+            <div className="text-sm text-gray-300 relative inline-block border-t top-3">Built & Designed by me </div>
           </div>
           
         </div>
