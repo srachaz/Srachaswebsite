@@ -29,7 +29,7 @@ export default function Home() {
           </div>
           <div className="w-1/2 ">
             
-              <h1 className="text-3xl text-[#737df0] font-bold">Hi I'm Sarah RJ Zhang: <br /> Freedom, & people lover!</h1>
+              <h1 className="text-3xl text-[#737df0] font-bold">Hi I&apos;m Sarah RJ Zhang: <br /> Freedom, & people lover!</h1>
               
               <div className="text-sm"><br/>UCLA freshman curious about microeconomics, investment theory, and DeFi!</div>
               <div className="text-sm pt-3">Life got interesting after I snuck into <a href="https://twitter.com/sracha_z/status/1627588736870682625" class="text-[#737df0] font-bold">Treehacks</a>—met extremely cool people, read books, and had fascinating life experiences that changed my <Link href="/thoughts" class="text-[#737df0] font-bold">life philosophies. </Link></div>

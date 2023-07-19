@@ -19,11 +19,11 @@ I was reading The 3 Body Problem, and I fell upon this passage:
 
 It brought me back to December of 2020, where I could only ponder the question of what happens when we die, every single night. And I concluded that death is the same as the time before I were born. <br/> <br/>
 
-The universe has an infinite timeline, and it’s only a tiny break, a tiny glitch in the grand scheme of the universe, where I have time to live. <br/>  <br/>
+The universe has an infinite timeline, and it&apos;s only a tiny break, a tiny glitch in the grand scheme of the universe, where I have time to live. <br/>  <br/>
 
-If you think about it like that, it feels like there’s a very finite time to get what I want in life. And I don’t know when I will run out of the peaceful time I enjoy now, where my parents and I are safe and everything is real. The life I have now is stable, the life I want in the future is exciting—a tragic life disaster could upend it anytime. I can’t shake off the sense of urgency to act optimally at every given moment. Perhaps long term it will bring more good than the anxiousness I have today. <br/>  <br/>
+If you think about it like that, it feels like there&apos;s a very finite time to get what I want in life. And I don&apos;t know when I will run out of the peaceful time I enjoy now, where my parents and I are safe and everything is real. The life I have now is stable, the life I want in the future is exciting—a tragic life disaster could upend it anytime. I can&apos;t shake off the sense of urgency to act optimally at every given moment. Perhaps long term it will bring more good than the anxiousness I have today. <br/>  <br/>
 
-When I’m 60 years old, I will dream about the time I was living today. Because the next 5 years of my life, may be the best in all my life. That’s why everyday is a blessing, and every hour is invaluable—I have the uninterruptible freedom to live how I want, and the focused time to get what I want.<br/>  <br/>
+When I&apos;m 60 years old, I will dream about the time I was living today. Because the next 5 years of my life, may be the best in all my life. That&apos;s why everyday is a blessing, and every hour is invaluable—I have the uninterruptible freedom to live how I want, and the focused time to get what I want.<br/>  <br/>
 
 Time itself is infinite, but my time is finite.
             </div>
