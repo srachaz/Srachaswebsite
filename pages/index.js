@@ -1,12 +1,12 @@
 import Image from 'next/image'
 import { Inter } from 'next/font/google'
 import Navbar from '../components/navbar'
-import TwitterIcon from '../components/iconfull/twittericon'
-import LinkedInIcon from '@/components/iconfull/linkedinicon'
-import MailIcon from '@/components/iconfull/mailicon'
-import SpotifyIcon from '@/components/iconfull/spotify'
-import GithubIcon from '@/components/iconfull/githubicon'
-import InstaIcon from '@/components/iconfull/instaicon'
+import TwitterIcon from '../components/twittericon'
+import LinkedInIcon from '@/components/linkedinicon'
+import MailIcon from '@/components/mailicon'
+import SpotifyIcon from '@/components/spotify'
+import GithubIcon from '@/components/githubicon'
+import InstaIcon from '@/components/instaicon'
 import Link from 'next/link';
 
 const inter = Inter({ subsets: ['latin'] })
