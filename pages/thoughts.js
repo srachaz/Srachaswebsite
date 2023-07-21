@@ -15,9 +15,7 @@ export default function Home() {
 
 I was reading The 3 Body Problem, and I fell upon this passage:
 
-“Ye felt this interminable wave was an abstract view of the universe: one end connected to the endless past, the other to the endless future…” <br/> <br/>
-
-It brought me back to December of 2020, where I could only ponder the question of what happens when we die, every single night. And I concluded that death is the same as the time before I were born. <br/> <br/>
+“Ye felt this interminable wave was an abstract view of the universe: one end connected to the endless past, the other to the endless future…” <br/>
 
 The universe has an infinite timeline, and it&apos;s only a tiny break, a tiny glitch in the grand scheme of the universe, where I have time to live. <br/>  <br/>
 
