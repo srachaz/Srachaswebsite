@@ -15,9 +15,7 @@ export default function Home() {
 
 I was reading The 3 Body Problem, and I fell upon this passage:
 
-“Ye felt this interminable wave was an abstract view of the universe: one end connected to the endless past, the other to the endless future…” <br/>
-
-The universe has an infinite timeline, and it&apos;s only a tiny break, a tiny glitch in the grand scheme of the universe, where I have time to live. <br/>  <br/>
+“Ye felt this interminable wave was an abstract view of the universe: one end connected to the endless past, the other to the endless future…” The universe has an infinite timeline, and it&apos;s only a tiny break, a tiny glitch in the grand scheme of the universe, where I have time to live. <br/>  <br/>
 
 If you think about it like that, it feels like there&apos;s a very finite time to get what I want in life. And I don&apos;t know when I will run out of the peaceful time I enjoy now, where my parents and I are safe and everything is real. The life I have now is stable, the life I want in the future is exciting—a tragic life disaster could upend it anytime. I can&apos;t shake off the sense of urgency to act optimally at every given moment. Perhaps long term it will bring more good than the anxiousness I have today. <br/>  <br/>
 
