@@ -4,13 +4,13 @@ export default function Home() {
     return(
         <>
         <Navbar />
-        <div className="flex items-center justify-between flex-col p-5">
-            <div className="flex flex-col justify-center mt-12">
+        <div className="flex items-center justify-between flex-col">
+            <div className="flex flex-col justify-center mt-4">
         
                 <h1 className="text-3xl text-[#737df0] font-bold text-center">Time is Finite</h1> 
                 <div className="text-sm text-[#737df0] font-semibold text-center">17 Jun 23</div> 
                 
-               <div className=" pt-4 pr-40 pl-40">
+               <div className=" pt-5 md:pr-40 md:pl-40 sm:pr-20 sm:pl-20">
                Everyone says that life is a long long journey, that life is a marathon. <br/> <br/>
 
 I was reading The 3 Body Problem, and I fell upon this passage:
