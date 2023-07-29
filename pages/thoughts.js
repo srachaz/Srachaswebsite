@@ -10,7 +10,7 @@ export default function Home() {
                 <h1 className="text-3xl text-[#737df0] font-bold text-center">Time is Finite</h1> 
                 <div className="text-sm text-[#737df0] font-semibold text-center">17 Jun 23</div> 
                 
-               <div className=" pt-5 mx-6 sm:mx-40">
+               <div className=" pt-5 mx-6 sm:mx-40 pb-5">
                Everyone says that life is a long long journey, that life is a marathon. <br/> <br/>
 
 I was reading The 3 Body Problem, and I fell upon this passage:
