@@ -20,7 +20,7 @@ export default function Home() {
                     <div className="cursor-pointer m-3">How to Live</div>
                     </Tooltip>
                     
-                    <Tooltip text="AdventurexRevenge" positionX="right-2"positionY="bottom-full" >
+                    <Tooltip text="AdventurexRevenge" positionX="left-2"positionY="bottom-full" >
                     <div className="cursor-pointer m-3">The Odyssey</div>
                     </Tooltip>
                     <Tooltip text="jurassic park but *universe*" positionX="left-2" positionY="bottom-full">
