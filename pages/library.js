@@ -16,7 +16,7 @@ export default function Home() {
                
 
                 <div className="text-[#737df0] text-center pt-4">
-                    <Tooltip text="Cures my life crises'" positionX="left-2" positionY="bottom-full">
+                    <Tooltip text="Cures my life crises&apos;" positionX="left-2" positionY="bottom-full">
                     <div className="cursor-pointer m-3">How to Live</div>
                     </Tooltip>
                     
@@ -36,7 +36,7 @@ export default function Home() {
                     <div className="cursor-pointer m-3">Scythe</div>
                     </Tooltip>
                     <Tooltip text="got me out the status game" positionX="left-2" positionY="bottom-full">
-                    <div className="cursor-pointer m-3">Naval's Almanack</div>
+                    <div className="cursor-pointer m-3">Naval&apos;s Almanack</div>
                     </Tooltip>
                     <Tooltip text="cried" positionX="left-1/2" positionY="bottom-full">
                     <div className="cursor-pointer m-3">The Little Prince</div>
