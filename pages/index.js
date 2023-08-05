@@ -8,12 +8,19 @@ import SpotifyIcon from '@/components/spotify'
 import GithubIcon from '@/components/githubicon'
 import InstaIcon from '@/components/instaicon'
 import Link from 'next/link';
+import Head from 'next/head';
+
+
 
 const inter = Inter({ subsets: ['latin'] })
 
 export default function Home() {
   return (
    <>
+   <Head>
+    <link rel="icon" href="/icons/compass.png"/>
+    <title>Sarah Zhang</title>
+   </Head>
   <Navbar />
     {/* <main
       className={`flex flex-col items-center justify-between p-24 🌇🌃🌞📍`}
@@ -34,7 +41,7 @@ export default function Home() {
               <div className="text-sm"><br/>UCLA freshman curious about microeconomics, investment theory, and DeFi!</div>
               <div className="text-sm pt-3">Life got interesting after I snuck into <a href="https://twitter.com/sracha_z/status/1627588736870682625" class="text-[#737df0] font-bold">Treehacks</a>—met extremely cool people, read books, and had fascinating life experiences that changed my <Link href="/thoughts" class="text-[#737df0] font-bold">life philosophies. </Link></div>
               <div className="text-sm pt-3">Figuring out how to live life like an adventure! So much to learn in the world—excited for surprises life can bring!</div>
-              <div className="text-sm pt-3">Currently reading: The Odyssey</div>
+              <div className="text-sm pt-3">Currently reading: The Man Who Solved The Market</div>
               <div className="text-sm pt-8"><br/>Constantly seeking new adventures and interesting conversations—reach out to me!</div>
             
             <div className="text-sm text-gray-300 relative inline-block border-t top-3">Built & Designed by me </div>

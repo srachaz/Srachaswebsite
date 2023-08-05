@@ -15,4 +15,10 @@ module.exports = {
     },
   },
   plugins: [],
+
+  mode: 'jit',
+  purge: ['./pages/**/*.js', './components/**/*.js'],
+  theme: {},
+  variants: {},
+  
 }
