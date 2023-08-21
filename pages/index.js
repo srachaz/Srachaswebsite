@@ -41,7 +41,7 @@ export default function Home() {
               <div className="text-sm"><br/>UCLA freshman curious about microeconomics, investment theory, and DeFi!</div>
               <div className="text-sm pt-3">Life got interesting after I snuck into <a href="https://twitter.com/sracha_z/status/1627588736870682625" class="text-[#737df0] font-bold">Treehacks</a>—met extremely cool people, read books, and had fascinating life experiences that changed my <Link href="/thoughts" class="text-[#737df0] font-bold">life philosophies. </Link></div>
               <div className="text-sm pt-3">Figuring out how to live life like an adventure! So much to learn in the world—excited for surprises life can bring!</div>
-              <div className="text-sm pt-3">Currently reading: The Man Who Solved The Market</div>
+              <div className="text-sm pt-3">Currently reading: Tomorrow, And Tomorrow, And Tomorrow & The Infinite Machine</div>
               <div className="text-sm pt-8"><br/>Constantly seeking new adventures and interesting conversations—reach out to me!</div>
             
             <div className="text-sm text-gray-300 relative inline-block border-t top-3">Built & Designed by me </div>

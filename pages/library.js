@@ -9,7 +9,7 @@ export default function Home() {
             <div className="flex flex-col justify-center mt-4">
         
                 <h1 className="text-3xl text-[#737df0] font-bold text-center">Library</h1> 
-                <div className="text-sm pt-2">Hover over to see some thoughts!</div>
+                <div className="text-sm pt-2 text-center">Hover over to see some thoughts!</div>
                 
 
                
@@ -25,6 +25,9 @@ export default function Home() {
                     </Tooltip>
                     <Tooltip text="jurassic park but *universe*" positionX="left-2" positionY="bottom-full">
                     <div className="cursor-pointer m-3">Three Body Problem</div>
+                    </Tooltip>
+                    <Tooltip text="I want to study math now" positionX="right-2" positionY="bottom-full">
+                    <div className="cursor-pointer m-3">The Man Who Solved The Market</div>
                     </Tooltip>
                     <Tooltip text="made my brain hurt" positionX="right-2" positionY="bottom-full">
                     <div className="cursor-pointer m-3">The Big Short</div>
