@@ -29,7 +29,7 @@ export default function Home() {
             <div><Image src="/headshot.png" alt="headshot"  width={200} height={200}/> </div>
               <div className="text-right text-sm pt-2">VAN🇨🇦 → SD → SF & LA🌁 </div>
               <div><br/></div>
-              <div className="flex flexrow justify-end space-x-4"><GithubIcon/><InstaIcon/><TwitterIcon/><LinkedInIcon/><SpotifyIcon/><MailIcon/></div>
+              <div className="flex flexrow justify-end space-x-4"><GithubIcon/><TwitterIcon/><LinkedInIcon/><MailIcon/></div>
               
           </div>
           <div className="w-1/2 ">
@@ -39,7 +39,7 @@ export default function Home() {
               <div className="text-sm"><br/>UCLA freshman curious about microeconomics, investment theory, and DeFi!</div>
               <div className="text-sm pt-3">Life got interesting after I snuck into <a href="https://twitter.com/sracha_z/status/1627588736870682625" class="text-[#737df0] font-bold">Treehacks</a>—met extremely cool people, read books, and had fascinating life experiences that changed my <Link href="/thoughts" class="text-[#737df0] font-bold">life philosophies. </Link></div>
               <div className="text-sm pt-3">Figuring out how to live life like an adventure! So much to learn in the world—excited for surprises life can bring!</div>
-              <div className="text-sm pt-3">Currently reading: The Infinite Machine</div>
+              <div className="text-sm pt-3">Currently reading: Foundation & The Infinite Machine</div>
               <div className="text-sm pt-8"><br/>Constantly seeking new adventures and interesting conversations—reach out to me!</div>
             
             <div className="text-sm text-gray-300 relative inline-block border-t top-3">Built & Designed by me </div>
