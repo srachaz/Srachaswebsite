@@ -34,12 +34,12 @@ export default function Home() {
           </div>
           <div className="w-1/2 ">
             
-              <h1 className="text-3xl text-[#737df0] font-bold">Hi I&apos;m Sarah RJ Zhang: <br /> Freedom, & people lover!</h1>
+              <h1 className="text-3xl text-[#737df0] font-bold">Hi I&apos;m Sarah RJ Zhang: <br /> freedom & people lover!</h1>
               
-              <div className="text-sm"><br/>UCLA freshman curious about microeconomics, investment theory, and DeFi!</div>
-              <div className="text-sm pt-3">Life got interesting after I snuck into <a href="https://twitter.com/sracha_z/status/1627588736870682625" class="text-[#737df0] font-bold">Treehacks</a>—met extremely cool people, read books, and had fascinating life experiences that changed my <Link href="/thoughts" class="text-[#737df0] font-bold">life philosophies. </Link></div>
-              <div className="text-sm pt-3">Figuring out how to live life like an adventure! So much to learn in the world—excited for surprises life can bring!</div>
-              <div className="text-sm pt-3">Currently reading: Foundation & The Infinite Machine</div>
+              <div className="text-sm"><br/>UCLA freshman excited about DeFi & investment theory!</div>
+              <div className="text-sm pt-3">Life got interesting after I snuck into <a href="https://twitter.com/sracha_z/status/1627588736870682625" class="text-[#737df0] font-bold">Treehacks</a>—met cool people and had fascinating life experiences that changed my <Link href="/thoughts" class="text-[#737df0] font-bold">life philosophies</Link>. Now, I'm trying to go all-in on defi, whether it be running an Ethereum node at <a href="https://www.blockchainatucla.com/" class="text-[#737df0] font-bold">Blockchain @ UCLA </a>or learning from great people at consulting companies, startups, and VC&apos;s!</div>
+              <div className="text-sm pt-3">Figuring out how to live life exponentially! </div>
+              <div className="text-sm pt-3">Currently reading: Foundation Asimov</div>
               <div className="text-sm pt-8"><br/>Constantly seeking new adventures and interesting conversations—reach out to me!</div>
             
             <div className="text-sm text-gray-300 relative inline-block border-t top-3">Built & Designed by me </div>
