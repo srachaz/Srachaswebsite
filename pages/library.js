@@ -16,8 +16,11 @@ export default function Home() {
                
 
                 <div className="text-[#737df0] text-center pt-4">
-                    <Tooltip text="Cures my life crises&apos;" positionX="left-2" positionY="bottom-full">
+                    <Tooltip text="my life bible" positionX="left-2" positionY="bottom-full">
                     <div className="cursor-pointer m-3">How to Live</div>
+                    </Tooltip>
+                    <Tooltip text="*you just need to manifest* for 200 pages" positionX="left-2"positionY="bottom-full" >
+                    <div className="cursor-pointer m-3">The Law of Attraction</div>
                     </Tooltip>
                     <Tooltip text="Lived 45 years. Reread immediately." positionX="left-2"positionY="bottom-full" >
                     <div className="cursor-pointer m-3">Tomorrow, & Tomorrow, & Tomorrow</div>
