@@ -58,7 +58,7 @@ export default function Home() {
                     <Tooltip text="my life bible" positionX="left-2" positionY="bottom-full">
                     <div className="cursor-pointer m-3">How to Live</div>
                     </Tooltip>
-                   
+                    <div><br/><br/></div>
                     
                 </div>
                 

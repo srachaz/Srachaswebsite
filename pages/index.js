@@ -36,13 +36,12 @@ export default function Home() {
             
               <h1 className="text-3xl text-[#737df0] font-bold">Hi, I&apos;m Sarah RJ Zhang!</h1>
               
-              <div className="text-sm"><br/>UCLA first-year excited about DeFi, investing, & VC.</div>
+              <div className="text-sm"><br/>UCLA first-year excited about crypto!</div>
               <div className="text-sm pt-3">Life got interesting after I snuck into <a href="https://twitter.com/sracha_z/status/1627588736870682625" class="text-[#737df0] font-bold">Treehacks</a>
-              —met cool people and had fascinating life experiences that changed my <Link href="/thoughts" class="text-[#737df0] font-bold">life philosophies</Link>. Now, I love exploring crypto through 
-                <a href="https://www.blockchainatucla.com/" class="text-[#737df0] font-bold"> Blockchain @ UCLA</a>, <a href="https://www.panony.com/" class="text-[#737df0] font-bold">PANONY</a>, 
-               <a href="https://www.0xcorina.com/team-partners" class="text-[#737df0] font-bold"> Beehive Consulting</a>, <a href="https://www.kernel.community/en/" class="text-[#737df0] font-bold"> Kernel B8</a>, and <a href="https://www.unlonely.app/" class="text-[#737df0] font-bold">Unlonely</a>.  </div>
-              <div className="text-sm pt-3">In my freetime, I&apos;ll either be practicing brazilian jiujitsu, meditating, jogging around LA, going on an adventure, trying new hobbies, or having another life crisis! </div>
-              <div className="text-sm pt-3">Still reading: Foundation Asimov</div>
+              —met cool people and had fascinating life experiences that changed my <Link href="/thoughts" class="text-[#737df0] font-bold">life philosophies</Link>. Now, I love learning more through my work at <a href="https://twitter.com/ebisu_finance" class="text-[#737df0] font-bold">Ebisu Finance</a>
+                <a href="https://www.blockchainatucla.com/" class="text-[#737df0] font-bold"> and Blockchain @ UCLA</a> .  </div>
+              <div className="text-sm pt-3">In my freetime, I&apos;ll either be meditating, jogging around LA, going on an adventure, drinking matcha at new cafes, or usually having a life crisis! </div>
+              <div className="text-sm pt-3">Still reading: Dune & Foundation</div>
               {/* <div className="text-sm pt-8"></div> */}
             
             <div className="text-sm text-gray-300 relative inline-block border-t top-3">Built & Designed by me </div>
