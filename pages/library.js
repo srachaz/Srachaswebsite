@@ -16,6 +16,9 @@ export default function Home() {
                
 
                 <div className="text-[#737df0] text-center pt-4">
+                <Tooltip text="beyond sickening. 10x worse than movie." positionX="left-2" positionY="bottom-full">
+                    <div className="cursor-pointer m-3">American Psycho</div>
+                    </Tooltip>
                 <Tooltip text="fragility of life" positionX="left-2" positionY="bottom-full">
                     <div className="cursor-pointer m-3">When Breath Becomes Air</div>
                     </Tooltip>
