@@ -12,7 +12,7 @@ export default function Home() {
         
     
                 
-                <Link href="/nomadingnotes" className="text-2xl text-[#737df0] pt-10">Nomading </Link>
+                <Link href="/nomading" className="text-2xl text-[#737df0] pt-10">Nomading </Link>
             <a href="https://medium.com/@sracha/ethdenver-2024-fc0e2153d1a3" className="text-2xl text-[#737df0] pt-10">10 Mar 24 — ETHDenver</a>
             <a href="https://seb.stanfordblockchain.xyz/meta-protocols/brc-20" className="text-2xl text-[#737df0]  pt-10">15 Jan 24 — BRC-20</a>
             <a href="https://medium.com/@sracha/control-over-my-life-fc20dd74317d" className="text-2xl text-[#737df0] pt-10">20 Dec 23 — Control Over My Life</a>
