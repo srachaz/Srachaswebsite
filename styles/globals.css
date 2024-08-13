@@ -15,6 +15,15 @@
   width: 50%;
 }
 
+.container1 {
+  max-width: 400px; /* Set the maximum width of the container */
+  margin: 0 auto; /* Center the container horizontally */
+  padding: 20px; /* Optional: Add padding for spacing within the box */
+  margin-left: 120px;
+  text-align: left; /* Center the text inside the container */
+}
+
+
 /* :root {
   --foreground-rgb: 0, 0, 0;
   --background-start-rgb: 214, 219, 220;

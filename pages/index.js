@@ -24,18 +24,22 @@ export default function Home() {
    </Head>
   <Navbar />
       <div className="flex items-center flex-col p-5 min-h-screen">
-        <div className="flex flex-row justify-center pt-20">
+        <div className="flex flex-row justify-center pt-20 ">
           
           <div>
            
-              <h1 className="text-3xl text-[#737df0] font-bold ">Sarah Z </h1> 
+              <h1 className="text-3xl text-[#737df0] font-bold ">Sarah Z. </h1> 
              
               
-              <div className="text-sm pt-3">Life is best lived <a href="https://medium.com/@sracha/interesting-life-85ccf33054e2" class="text-[#737df0] font-bold">interestingly</a>. 
-              <br/> I like <a href="https://x.com/sracha_z" class="text-[#737df0] font-bold"> crypto.</a> 
-              <br/>Exploring at <a href="https://twitter.com/ebisu_finance" class="text-[#737df0] font-bold">Ebisu Finance.</a>
+
+              <div className="text-sm pt-3">
+              I like <a href="https://x.com/sracha_z" class="text-[#737df0] font-bold"> crypto</a>. 
+              <br/>Exploring at <a href="https://twitter.com/ebisu_finance" class="text-[#737df0] font-bold">Ebisu Finance</a>.
+              
+              <br/>Find me in SF, UCLA, or 🗺.
               <br/> 
-             
+              Life is best lived <a href="https://medium.com/@sracha/interesting-life-85ccf33054e2" class="text-[#737df0] font-bold">interestingly</a>. 
+
               </div>
               
              
