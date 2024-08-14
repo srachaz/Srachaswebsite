@@ -8,7 +8,7 @@ export default function Home() {
         <>
         <Navbar />
         <div className="flex items-center justify-between flex-col">
-            <div className="flex flex-col justify-center mt-4 mr-[-100px] sm:mr-[-100px] lg:mr-[-100px]">
+            <div className="flex flex-col justify-center mt-4 text-center">
         
     
                 
