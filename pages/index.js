@@ -33,12 +33,12 @@ export default function Home() {
               
 
               <div className="text-sm pt-3">
-              I like <a href="https://x.com/sracha_z" class="text-[#737df0] font-bold"> crypto</a>. 
-              <br/>Exploring at <a href="https://twitter.com/ebisu_finance" class="text-[#737df0] font-bold">Ebisu Finance</a>.
+              UCLA sophomore making <a href="https://www.instagram.com/srachasauce/" class="text-[#737df0] font-bold"> videos</a> on how to live an interesting life.
+              <br/> Exploring <a href="https://x.com/sracha_z" class="text-[#737df0] font-bold"> crypto</a> at <a href="https://www.anagram.xyz/" class="text-[#737df0] font-bold">Anagram</a>, previously at <a href="https://twitter.com/ebisu_finance" class="text-[#737df0] font-bold">Ebisu Finance</a>.
               
               <br/>Find me in SF, UCLA, or 🗺.
               <br/> 
-              Life is best lived <a href="https://medium.com/@sracha/interesting-life-85ccf33054e2" class="text-[#737df0] font-bold">interestingly</a>. 
+              Life is best lived <a href="https://medium.com/@sracha/control-over-my-life-fc20dd74317d" class="text-[#737df0] font-bold">with control</a>. 
 
               </div>
               

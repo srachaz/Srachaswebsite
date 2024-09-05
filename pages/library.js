@@ -10,10 +10,8 @@ export default function Home() {
         
                 <h1 className="text-3xl text-[#737df0] font-bold text-center">Library</h1> 
                 <div className="text-sm pt-2 text-center">Hover over to see some thoughts!</div>
-                
-
-               
-               
+            
+     
 
                 <div className="text-[#737df0] pt-4 text-center">
                 <Tooltip text="beyond sickening. 10x worse than movie." positionX="left-2" positionY="bottom-full">
