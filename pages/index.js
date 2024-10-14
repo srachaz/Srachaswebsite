@@ -33,8 +33,8 @@ export default function Home() {
               
 
               <div className="text-sm pt-3">
-              UCLA sophomore making <a href="https://www.instagram.com/srachasauce/" class="text-[#737df0] font-bold"> videos</a> on how to live an interesting life.
-              <br/> Exploring <a href="https://x.com/sracha_z" class="text-[#737df0] font-bold"> crypto</a> at <a href="https://www.anagram.xyz/" class="text-[#737df0] font-bold">Anagram</a>, previously at <a href="https://twitter.com/ebisu_finance" class="text-[#737df0] font-bold">Ebisu Finance</a>.
+              UCLA sophomore documenting <a href="https://www.instagram.com/srachasauce/" class="text-[#737df0] font-bold"> my journey</a> on living the most interesting life.
+              <br/> Exploring <a href="https://x.com/sracha_z" class="text-[#737df0] font-bold"> crypto</a> at <a href="https://www.anagram.xyz/" class="text-[#737df0] font-bold">Anagram</a>, scouting at <a href="https://www.asylum.vc/" class="text-[#737df0] font-bold">Asylum Ventures</a>, prev everything at <a href="https://twitter.com/ebisu_finance" class="text-[#737df0] font-bold">Ebisu Finance</a>.
               
               <br/>Find me in SF, UCLA, or 🗺.
               <br/> 
